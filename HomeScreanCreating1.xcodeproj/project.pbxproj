@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B04146CD2474E96D00297513 /* OwnAppScreanView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B04146CC2474E96D00297513 /* OwnAppScreanView.swift */; };
 		B08B78D4247011FC00EFC75A /* DockView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B08B78D3247011FC00EFC75A /* DockView.swift */; };
 		B0ED0A57246FCCA8001FB01F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0ED0A56246FCCA8001FB01F /* AppDelegate.swift */; };
 		B0ED0A59246FCCA8001FB01F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0ED0A58246FCCA8001FB01F /* SceneDelegate.swift */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B04146CC2474E96D00297513 /* OwnAppScreanView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OwnAppScreanView.swift; sourceTree = "<group>"; };
 		B08B78D3247011FC00EFC75A /* DockView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DockView.swift; sourceTree = "<group>"; };
 		B0ED0A53246FCCA8001FB01F /* HomeScreanCreating1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HomeScreanCreating1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B0ED0A56246FCCA8001FB01F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -67,6 +69,7 @@
 				B0ED0A56246FCCA8001FB01F /* AppDelegate.swift */,
 				B0ED0A58246FCCA8001FB01F /* SceneDelegate.swift */,
 				B0ED0A5D246FCCA8001FB01F /* ContentView.swift */,
+				B04146CC2474E96D00297513 /* OwnAppScreanView.swift */,
 				B08B78D3247011FC00EFC75A /* DockView.swift */,
 				B0ED0A6F246FE22A001FB01F /* AppView.swift */,
 				B0ED0A6D246FD8F3001FB01F /* AppStructure.swift */,
@@ -163,6 +166,7 @@
 				B0ED0A70246FE22A001FB01F /* AppView.swift in Sources */,
 				B0ED0A59246FCCA8001FB01F /* SceneDelegate.swift in Sources */,
 				B0ED0A5E246FCCA8001FB01F /* ContentView.swift in Sources */,
+				B04146CD2474E96D00297513 /* OwnAppScreanView.swift in Sources */,
 				B0ED0A5C246FCCA8001FB01F /* HomeScreanCreating1.xcdatamodeld in Sources */,
 				B08B78D4247011FC00EFC75A /* DockView.swift in Sources */,
 			);
