@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B00AAB6D24F68F190062467D /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B00AAB6C24F68F190062467D /* HomeView.swift */; };
 		B0280DEB24A245D5000EF6F9 /* shortCutAdditionEditor.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0280DEA24A245D5000EF6F9 /* shortCutAdditionEditor.swift */; };
 		B02B130D24B3E0850068FEC6 /* ImagePickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B02B130C24B3E0850068FEC6 /* ImagePickerView.swift */; };
 		B02B130F24B3E2030068FEC6 /* Appsetting.swift in Sources */ = {isa = PBXBuildFile; fileRef = B02B130E24B3E2030068FEC6 /* Appsetting.swift */; };
@@ -27,6 +28,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B00AAB6C24F68F190062467D /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		B0280DEA24A245D5000EF6F9 /* shortCutAdditionEditor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = shortCutAdditionEditor.swift; sourceTree = "<group>"; };
 		B02B130C24B3E0850068FEC6 /* ImagePickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePickerView.swift; sourceTree = "<group>"; };
 		B02B130E24B3E2030068FEC6 /* Appsetting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Appsetting.swift; sourceTree = "<group>"; };
@@ -81,6 +83,7 @@
 				B0ED0A56246FCCA8001FB01F /* AppDelegate.swift */,
 				B0ED0A58246FCCA8001FB01F /* SceneDelegate.swift */,
 				B0ED0A5D246FCCA8001FB01F /* ContentView.swift */,
+				B00AAB6C24F68F190062467D /* HomeView.swift */,
 				B04146D22477C02A00297513 /* AppView.swift */,
 				B047196024AE245100354F77 /* HomeOverlayView.swift */,
 				B04146CC2474E96D00297513 /* OwnAppScreanView.swift */,
@@ -182,6 +185,7 @@
 				B02B130D24B3E0850068FEC6 /* ImagePickerView.swift in Sources */,
 				B0329D6224B19D2F008D5DCD /* Application.swift in Sources */,
 				B0ED0A6E246FD8F3001FB01F /* AppStructure.swift in Sources */,
+				B00AAB6D24F68F190062467D /* HomeView.swift in Sources */,
 				B0ED0A57246FCCA8001FB01F /* AppDelegate.swift in Sources */,
 				B0280DEB24A245D5000EF6F9 /* shortCutAdditionEditor.swift in Sources */,
 				B0ED0A59246FCCA8001FB01F /* SceneDelegate.swift in Sources */,
